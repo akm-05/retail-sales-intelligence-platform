@@ -1,0 +1,13 @@
+subcategory_id,subcategory_name,category_id
+1,Tables,1
+2,Storage,2
+3,Furnishings,1
+4,Copiers,3
+5,Bookcases,1
+6,Phones,3
+7,Chairs,1
+8,Machines,3
+9,Accessories,3
+10,Paper,2
+11,Art,2
+12,Binders,2

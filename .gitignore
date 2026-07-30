@@ -19,7 +19,7 @@ env/
 # --- Data (raw source data and pipeline output are regenerated locally,
 # not committed -- see data/raw/README.md and run_pipeline.py) ---
 data/raw/*.csv
-data/processed/*.csv
+
 
 # --- Streamlit ---
 .streamlit/secrets.toml

@@ -1,0 +1,9 @@
+location_id,city,state,postal_code,region_id
+1,Atlanta,Georgia,30301,1
+2,Philadelphia,Pennsylvania,19019,2
+3,Houston,Texas,77001,3
+4,Chicago,Illinois,60601,3
+5,Seattle,Washington,98101,4
+6,Los Angeles,California,90001,4
+7,New York,New York,10001,2
+8,Miami,Florida,33101,1
