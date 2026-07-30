@@ -1,0 +1,28 @@
+# Retail Sales Intelligence & Demand Forecasting Platform
+# Tested against the versions below (pinned as minimums with `>=` rather
+# than exact `==` so the project stays installable as transitive
+# dependencies patch forward).
+#
+# Install with: pip install -r requirements.txt
+
+# --- Data handling ---
+pandas>=2.2
+numpy>=1.26
+
+# --- Database (Phase 2/3) ---
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+
+# --- Visualization (Phase 4, Phase 7) ---
+matplotlib>=3.8
+plotly>=5.20
+
+# --- Statistics & forecasting (Phase 5, Phase 6) ---
+scipy>=1.11
+scikit-learn>=1.4
+
+# --- Dashboard (Phase 7) ---
+streamlit>=1.32
+
+# --- Testing (all phases) ---
+pytest>=7.4
